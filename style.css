@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+#first{
+    font-size: 1.5rem;
+    text-align: justify;
+}
+#img{
+    height: 100vh;
+    width: 100VW;
+    background-image: url(image1.avif);
+    background-size:  100% 100%;
+    background-attachment: fixed;
+}
+#second{
+    text-align: justify;
+}
