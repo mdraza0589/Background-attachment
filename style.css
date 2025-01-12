@@ -9,7 +9,7 @@
 }
 #img{
     height: 100vh;
-    width: 100VW;
+    width: 97VW;
     background-image: url(image1.avif);
     background-size:  100% 100%;
     background-attachment: fixed;
